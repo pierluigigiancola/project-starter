@@ -36,6 +36,8 @@
 		"prettier": "catalog:",
 		"publint": "catalog:",
 		"sherif": "catalog:",
-		"typescript": "catalog:"
+		"typescript": "catalog:",
+		"vite": "catalog:",
+		"vitest": "catalog:"
 	}
 }
