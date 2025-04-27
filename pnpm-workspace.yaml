@@ -1,2 +1,14 @@
 packages:
   - packages/*
+catalog:
+  "@changesets/cli": ^2.29.2
+  "@svitejs/changesets-changelog-github-compact": ^1.2.0
+  "@tanstack/config": ^0.18.0
+  "@types/node": ^22.15.2
+  eslint: ^9.25.1
+  jsdom: ^26.1.0
+  nx: ^20.8.1
+  prettier: ^3.5.3
+  publint: ^0.3.12
+  sherif: ^1.5.0
+  typescript: ^5.8.3
