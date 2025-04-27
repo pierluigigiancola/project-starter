@@ -24,6 +24,7 @@
     "changeset:publish": "changeset publish"
   },
   "devDependencies": {
+    "@biomejs/biome": "catalog:",
     "@changesets/cli": "catalog:",
     "@svitejs/changesets-changelog-github-compact": "catalog:",
     "@tanstack/config": "catalog:",
