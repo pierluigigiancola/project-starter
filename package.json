@@ -29,6 +29,7 @@
 		"changeset:publish": "changeset publish"
 	},
 	"devDependencies": {
+		"@arethetypeswrong/cli": "catalog:",
 		"@biomejs/biome": "catalog:",
 		"@changesets/cli": "catalog:",
 		"@svitejs/changesets-changelog-github-compact": "catalog:",
